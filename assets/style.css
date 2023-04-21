@@ -1,0 +1,11 @@
+:root {
+     --purple-blue:#697FC8;
+
+}
+header {
+    text-align: center;
+}
+
+body {
+    background-color:var(--purple-blue);
+}
